@@ -1,0 +1,22 @@
+/* main colors */
+:root {
+  --main-Background: #e9e4de;
+  --text-Color: #414d58;
+  --button-Color: #e5bf80;
+  --footer-color: #caba9b;
+  --navigation-color: #e3b26e;
+  --white-color: #fafafa;
+}
+/* -----------defaults design------------- */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* -------the navbar section--------- */
