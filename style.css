@@ -106,3 +106,30 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+/* ---------------------------------------My story section---------------------------------------- */
+
+.myStory {
+  width: 100%;
+  background-color: var(--main-Background);
+  display: flex;
+  justify-content: center;
+}
+
+.myStory-wrapper {
+  width: 80%;
+  border: 3px solid rgba(0, 0, 0, 0.27);
+  margin: 20px;
+}
+
+.myStory-row {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.myStory-col {
+  width: 40%;
+}
+.myStory-text {
+  margin: 20px;
+}
